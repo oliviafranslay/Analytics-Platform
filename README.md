@@ -1,7 +1,7 @@
 # MovingAverage-Correlation
 
 ## General info
-This project is created with Python in Jupyter Notebook, the project data source is from my Java project https://github.com/oliviafranslay/historicalData.
+This project is created with Python 3.10 in Jupyter Notebook, the project data source is from my Java project https://github.com/oliviafranslay/historicalData.
 
 ## Table of contents
 * Moving Average Chart for one underlying
