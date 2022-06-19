@@ -1,4 +1,4 @@
-# MovingAverage-Correlation
+# Analytics Platform
 
 ## General info
 This project is created with Python 3.10 in Jupyter Notebook, the project data source is from my Java project https://github.com/oliviafranslay/historicalData.
